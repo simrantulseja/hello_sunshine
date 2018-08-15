@@ -1,0 +1,8 @@
+print(" * ")
+print(" *** ")
+print(" ***** ")
+print(" * ")
+print(" * ")
+print("  * ")
+print(4)
+print(" this is simple python program")
