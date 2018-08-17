@@ -1,0 +1,13 @@
+git commands
+git clone url
+git status
+cd hellosunshine
+git add- A
+git commit -m"this is my new repo"
+git status
+git push -u origin master
+
+
+if username and email is required then use these commands
+git config --global user.name "simrantulseja"
+git config --global user.email simran1858.cse16@chitkara.edu.in
